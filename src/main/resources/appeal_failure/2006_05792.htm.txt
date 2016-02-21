@@ -1,0 +1,37 @@
+
+	Matter of Noble
+	2006 NY Slip Op 05792 [31 AD3d 643]
+	July 18, 2006
+	Appellate Division, Second Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, September 20, 2006
+
+
+
+
+
+
+	In the Matter of the Estate of Albert J. Noble, Jr., Deceased. Albert J. Noble III, Appellant; Christopher P. Noble, Respondent.
+
+
+—[*1]
+
+
+
+In a proceeding pursuant to SCPA 2103, inter alia, to discover property and information withheld from an estate, Albert J. Noble III appeals from an order of the Surrogate's Court, Suffolk County (Czygier, S.), dated January 3, 2005, which granted those branches of the motion of Christopher P. Noble which were to dismiss the proceeding pursuant to CPLR 3211 (a) (5) and (7).
+
+Ordered that the order is affirmed, with costs payable by the appellant personally.
+
+The petitioner, Albert J. Noble III, as administrator of his father's estate, commenced this proceeding pursuant to SCPA 2103. He alleged that his brother, Christopher P. Noble (hereinafter Christopher), promised to hold property located in Noyac, transferred to him by their deceased parents, in trust for the benefit of all five siblings, and that after the father's death, Christopher refused to convey it to the siblings. This proceeding sought information regarding the Noyac property, and "delivery" of the property, to the petitioner. In a prior action in the Supreme Court, Suffolk County, Christopher's sibling, Neil, sought the imposition of a constructive trust on the Noyac property. That action was dismissed for failure to state a cause of action, essentially because documentary proof established that the parties' parents never owned the property.
+[*2]
+The Surrogate's Court granted Christopher's motion to dismiss the proceeding on the grounds of collateral estoppel, expiration of the statute of limitations, and failure to state a cause of action. We affirm.
+
+A discovery proceeding pursuant to SCPA 2103 may be dismissed on a motion pursuant to CPLR 3211 where the petition fails to state a cause of action on behalf of the fiduciary against the movant (see Matter of Pascale, 168 Misc 2d 891 [1996]). Here, the petitioner was not entitled to discovery, as he did not state a cause of action for the imposition of a constructive trust.
+
+There are four requirements for the imposition of a constructive trust: (1) a confidential or fiduciary relationship, (2) a promise, (3) a transfer in reliance thereon, and (4) unjust enrichment (see Sharp v Kosmalski, 40 NY2d 119, 121 [1976]). Here, the petitioner failed to demonstrate a promise and a transfer in reliance thereon. The assertions contained in the affidavits submitted by the petitioner, that his parents owned the Noyac property and that Christopher promised that he would reconvey the property to his siblings, were conclusory and were contradicted by the documentary evidence in the record (see Doria v Masucci, 230 AD2d 764 [1996]). The deed established that the parents did not own the Noyac property when it was conveyed to Christopher and his sister Adrienne in 1979. Adrienne conveyed her interest to Christopher in 1984 and he paid the mortgage and carrying charges for 20 years. Therefore, the petitioner failed to sufficiently allege a cause of action for the imposition of a constructive trust. Under such circumstances, the Surrogate's Court properly dismissed the proceeding (see Matter of Pascale, supra).
+
+In any event, the cause of action for the imposition of a constructive trust is barred by the doctrine of collateral estoppel. "The two elements that must be satisfied to invoke the doctrine of collateral estoppel are that (1) the identical issue was decided in the prior action and is decisive in the present action, and (2) the party to be precluded from relitigating the issue had a full and fair opportunity to contest the prior issue" (Luscher v Arrua, 21 AD3d 1005, 1007 [2005]). Here, the identical issue of whether a cause of action for the imposition of a constructive trust may be asserted against Christopher was litigated in the prior Supreme Court action. The petitioner and his brother Neil were in privity with each other as they were asserting the same right to the property and Neil had a full and fair opportunity to litigate the issue in the Supreme Court action (see Matter of Slocum v Joseph B., 183 AD2d 102 [1992]; Matter of Newsday, Inc. v Ross, 80 AD2d 1, 6 [1981]).
+
+In view of our determination, we need not address the parties' remaining contentions. Luciano, J.P., Rivera, Lifson and Covello, JJ., concur.
+
+

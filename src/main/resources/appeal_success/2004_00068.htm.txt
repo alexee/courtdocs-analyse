@@ -1,0 +1,35 @@
+
+	Lafarge Bldg. Materials v J. Hall, Ltd.
+	2004 NY Slip Op 00068 [3 AD3d 651]
+	January 8, 2004
+	Appellate Division, Third Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	Lafarge Building Materials, Inc., Formerly Known as Blue Circle, Inc., Also Known as Blue Circle Atlantic, Inc. and Blue Circle Cement, Inc., Appellant,
+v
+J. Hall, Ltd., Also Known as J.R. Hall, Inc. and J.R. Hall, Ltd., et al., Respondents.
+
+
+—
+
+
+
+Lahtinen, J. Appeal from an order of the Supreme Court (Ferradino, J.), entered March 26, 2003 in Albany County, which denied plaintiff's motion for summary judgment.
+
+Plaintiff seeks a judgment declaring that it is entitled to defense and indemnification as an additional insured under the terms of an insurance policy endorsement procured by one of the companies that contracted to provide work on a construction project at plaintiff's commercial kiln. The underlying action involves injuries sustained by defendant David Jordan, an employee of defendant LVR, Inc., when a brick allegedly fell on his hand while working at the project (see Jordan v Blue Circle Atl., 306 AD2d 741 [2003]). Jordan alleged in his complaint and amended complaint that the brick was dropped by Jeffrey Boehlke, an employee of defendant J. Hall, Ltd.
+
+Plaintiff had contracted to have Hall provide laborers at the site and, pursuant to its contract with plaintiff, Hall procured an additional insured endorsement adding plaintiff to its commercial liability policy. The endorsement provided, in relevant part, that "[t]he insurance provided to the additional insured is limited as follows: 1. That a person or organization is only an additional insured with respect to liability arising out of . . . b. 'Your Work' for that additional insured by or for you." The term "Your Work" was further defined as: "a. Work or operations performed by you on your behalf; and b. Materials, parts or equipment furnished in connection with such work or operations."
+
+After Jordan commenced the underlying action premised on negligence and the Labor Law, plaintiff brought this declaratory judgment action seeking to compel Hall's insurers, defendants CNA Insurance Companies and Transcontinental Insurance Company, to defend and indemnify it under the terms of the insurance endorsement. Plaintiff eventually moved for summary judgment. Supreme Court denied plaintiff's motion finding, among other things, that the rights of the parties under the insurance contract could not be determined since there were factual issues as to whether some or all of the workers allegedly involved in the accident were special employees of plaintiff. Plaintiff appeals.
+
+Where, as here, an additional insurance endorsement provides coverage for liability "arising out of work," it is generally the rule that "any negligence by the additional insured in causing the accident underlying the claim is not material to the application of the additional insured endorsement" (Consolidated Edison Co. of N.Y. v United States Fid. & Guar. Co., 263 AD2d 380, 382 [1999]; see Nuzzo v Griffin Tech., 222 AD2d 184, 189 [1996], lv dismissed 89 NY2d 981 [1997], lv denied 91 NY2d 802 [1997]). Consistent with this principle, a factual issue as to whether an employee of the insured has become a special employee of the additional insured does not preclude coverage under the endorsement (see Tishman Constr. Corp. of N.Y. v American Mfrs. Mut. Ins. Co., 303 AD2d 323 [2003]). Here, the pleadings in the underlying action allege that Boehlke, who was at least a general employee of Hall, dropped a brick on Jordan while working at plaintiff's construction project. These allegations are sufficient to trigger the terms of the additional insured endorsement regardless of whether Boehlke ultimately is determined to be a special employee of plaintiff (see id.). Accordingly, plaintiff's motion should have been granted.
+
+Mercure, J.P., Crew III, Peters and Mugglin, JJ., concur. Ordered that the order is reversed, on the law, with costs, motion granted, and it is declared that defendants CNA Insurance Companies and Transcontinental Insurance Company have a duty to defend and indemnify plaintiff in the underlying action brought by David Jordan.
+
+

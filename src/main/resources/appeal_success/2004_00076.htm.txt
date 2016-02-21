@@ -1,0 +1,45 @@
+
+	Jiggetts v Dowling
+	2004 NY Slip Op 00076 [3 AD3d 326]
+	January 8, 2004
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	Barbara Jiggetts et al., Respondents,
+v
+Michael Dowling, as Commissioner of the New York State Department of Social Services, et al., Appellant.
+
+
+—
+
+
+
+Order and judgment (one paper), Supreme Court, New York County (Karla Moskowitz, J.), entered August 9, 2002, which awarded plaintiffs attorneys' fees pursuant to 42 USC § 1988, unanimously reversed, on the law, without costs, and the award vacated. Appeal from order, same court and Justice, entered May 8, 2002, which denied defendant's motion seeking denial of an award of attorneys' fees to plaintiffs and set the matter down for a hearing, unanimously dismissed, without costs, as superceded by the appeal from the August 9, 2002 order and judgment.
+
+This class action for a declaratory judgment and injunctive relief was commenced in 1987 on behalf of recipients of public assistance in the form of Aid to Families with Dependent Children (AFDC) residing in New York City, whose shelter costs exceeded the maximum allowance payable to them under the New York State Department of Social Services (DSS) schedules. The Commissioner of the DSS is a defendant herein.
+
+Plaintiffs, in both their original complaint and amended class action complaint, asserted claims under the Equal Protection Clause of the Fourteenth Amendment of the United States Constitution. Although the existence of these claims is not in dispute, the substance of these causes of action is beyond our review as neither complaint was made part of the record. The DSS moved to dismiss the amended complaint for failure to state a cause of action, pursuant to CPLR 3211 (a) (7), and, by decision dated January 12, 1988, the motion court denied the motion to dismiss and granted plaintiffs a preliminary injunction directing defendant to administratively promulgate new shelter allowances that satisfied then current housing costs (see Jiggetts v Grinker, 139 Misc 2d 476 [1988]).
+
+The DSS appealed and, by decision and order entered June 15, 1989, this Court unanimously reversed the motion court and dismissed the complaint (see Jiggetts v Grinker, 148 AD2d 1 [1989]). This Court held, in pertinent part, that "[t]o the extent that plaintiffs raise claims . . . under the Due Process and Equal Protection Clauses of both the US and NY Constitutions, these claims are denied" (at 22).
+
+The Court of Appeals thereafter granted plaintiffs leave to appeal and, by decision and order entered April 3, 1990, reversed this Court and denied defendant's motion to dismiss (see Jiggetts v Grinker, 75 NY2d 411 [1990]). In its decision, the Court of Appeals readily acknowledged that "[t]he only issue plaintiffs assert on this appeal is the legal sufficiency of the complaint under CPLR 3211 (a) (7), i.e., whether a duty is imposed on defendant [DSS] to establish 'adequate' shelter allowances" (id. at 414 n 2 [emphasis added]). In that vein, the Court of Appeals held that Social Services Law § 350 (1) (a) imposes a statutory duty on the Commissioner of the DSS to establish shelter allowances that bear a reasonable relation to the cost of housing in New York City, and that plaintiffs' claim that he had failed to perform that duty presents a justiciable controversy involving the alleged failure of the executive branch of government to comply with the directions of the legislative branch (id. at 415).
+
+The Court of Appeals remitted the matter for further proceedings, and following a lengthy nonjury trial, the court concluded that the 1988 shelter allowances failed to meet the standards imposed by the Court of Appeals. This Court, on appeal, affirmed the trial court's decision and held, inter alia, that, according the trial court's findings of fact the appropriate deference, a fair interpretation of the evidence supported the finding that the shelter allowance schedule bore no reasonable relation to the cost of housing in the City of New York, and that there was a direct correlation between the inadequate shelter allowances and homelessness (Jiggetts v Dowling, 261 AD2d 144 [1999]).
+
+This Court thereafter denied leave to appeal to the Court of Appeals, and the Court of Appeals dismissed a subsequent motion before that court, filed by the DSS, for leave to appeal (Jiggetts v Dowling, 94 NY2d 796 [1999]). Approximately two years later, plaintiffs moved in Supreme Court for an order directing the DSS to promulgate a new, adequate shelter allowance schedule within 60 days or, in the alternative, for a hearing to enable the court to set a schedule. The DSS cross-moved seeking, inter alia, an order denying an award of attorneys' fees to plaintiffs and, in response, plaintiffs cross-moved for an award of attorneys' fees in the amount of $482,854.25. The motion court granted plaintiffs' claim for attorneys' fees under 42 USC § 1988 and the parties, in a so-ordered stipulation filed on July 17, 2002, agreed to the amount of attorneys' fees incurred by plaintiffs, but reserved the DSS's right to appeal plaintiffs' entitlement to those fees. The DSS now appeals the motion court's award of attorneys' fees, and we reverse.
+
+A prevailing party in an action to redress a violation of certain federal constitutional or statutory rights may, in the court's discretion, be entitled to an award of reasonable attorneys' fees pursuant to 42 USC § 1988 (Maine v Thiboutot, 448 US 1, 4 [1980]; Matter of Thomasel v Perales, 78 NY2d 561, 567 [1991]; Matter of Cleary v Perales, 191 AD2d 209, 210 [1993]). In this matter, however, it is clear that plaintiffs made no attempt to appeal this Court's unequivocal, pretrial dismissal of their federal claims. Indeed, plaintiffs' counsel's affirmation in support of their motion for leave to appeal to the Court of Appeals, as well as their brief before that Court, are completely silent as to the federal constitutional claims or any state due process or equal protection claim. Plaintiffs' brief states that "[t]he only issue presented for review by this court is whether state law permits the state defendant to set shelter allowances so low as to force families into homelessness," and later, under the heading "Question Presented for Review" provides: "Do the Social Services Law and the State Constitution permit the State Department of Social Services to set maximum rent allowances paid to recipients of Aid to Families with Dependent Children at levels so low that families are forced into homelessness?"
+
+Accordingly, since plaintiffs did not pursue their federal constitutional claims on appeal, they must be deemed abandoned (Matter of Scotto v Dinkins, 85 NY2d 209, 215 [1995]; Adams Drug Co. v Knobel, 172 AD2d 470, 470-471 [1991], lv denied 78 NY2d 857 [1991]; State of New York v Jacobs, 167 AD2d 876, 877 [1990]; see also County of Suffolk v Stone & Webster Eng'g Corp., 106 F3d 1112, 1117 [1997], quoting Fogel v Chestnutt, 668 F2d 100, 109 [1981], cert denied 459 US 828 [1982] [" '(i)t would be absurd that a party who has chosen not to argue a point on a first appeal should stand better as regards the law of the case than one who had argued and lost' "]).
+
+Plaintiffs' argument that the courts should not decide constitutional questions when a case can be disposed of on a nonconstitutional ground, while correct, rings hollow, as this rule does not relieve plaintiffs of their obligation to pursue the federal constitutional claims and, at the very least, put those claims before the court. In White Mtn. Apache Tribe v Williams (810 F2d 844 [1985], cert denied 479 US 1060 [1987]), the United States Court of Appeals for the Ninth Circuit, in denying a section 1988 award of attorneys' fees, succinctly stated: "This is not a case where a § 1983 plaintiff seeks attorney's fees on the strength of constitutional claims which were pressed but not adjudicated because of 'the longstanding judicial policy of avoiding unnecessary decision of important constitutional issues.' Maher v. Gagne, 448 U.S. at 133, 100 S.Ct. at 2576. Rather, this is a case where the constitutional claims were never pressed beyond the original federal complaint until they were dusted off for use in seeking a fee award under § 1988." (Id. at 854 [emphasis added].)
+
+We further note that plaintiffs' reliance on Maher v Gagne (448 US 122 [1980]) is misplaced as the Supreme Court therein explicitly stated that "[w]e think it is within Congress' Fourteenth Amendment power to authorize a fee award when a party prevails on a statutory claim as long as the pendent constitutional claim is a substantial one and arises out of the same operative facts" (id. at 127 n 9). Here, there were no pendent constitutional claims when plaintiffs prevailed at trial, as those claims had been dismissed by this Court, and then abandoned on appeal. Concur—Buckley, P.J., Nardelli, Sullivan, Williams and Lerner, JJ.
+
+

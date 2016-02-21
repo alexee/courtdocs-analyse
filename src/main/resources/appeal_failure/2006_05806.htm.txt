@@ -1,0 +1,37 @@
+
+	People v Charles
+	2006 NY Slip Op 05806 [31 AD3d 657]
+	July 18, 2006
+	Appellate Division, Second Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, September 20, 2006
+
+
+
+
+
+
+	The People of the State of New York, Respondent,
+v
+Johnnie Charles, Appellant.
+
+
+—[*1]
+
+
+
+Appeal by the defendant from a judgment of the County Court, Rockland County (Resnik, J.), rendered April 27, 2004, convicting him of burglary in the second degree and criminal possession of stolen property in the fifth degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant's omnibus motion which was to suppress identification testimony.
+
+Ordered that the judgment is affirmed.
+
+After a Wade hearing (see United States v Wade, 388 US 218 [1967]), the People satisfied their initial burden by demonstrating that the showup identification procedure was "reasonable under the circumstances" as it was conducted "in close geographic and temporal proximity to the crime" (People v Ortiz, 90 NY2d 533, 537 [1997]). Moreover, the People "produc[ed] some evidence relating to the showup itself . . . demonstrat[ing] that the procedure was not unduly suggestive" (People v Ortiz, supra at 537), and that the showup was conducted under circumstances which were "not so unnecessarily suggestive as to create a substantial likelihood of misidentification" (People v Duuvon, 160 AD2d 653 [1990], affd 77 NY2d 541 [1991]; see also People v Hughes, 287 AD2d 872 [2001]). Contrary to the defendant's contention, the identification procedure in this case was not rendered unduly suggestive merely because the defendant was handcuffed at the time that he was displayed to the complainant (see People v Gil, 21 AD3d 1120 [2005]; People v Armstrong, 11 AD3d 721, 722 [2004]; People v Burns, 133 [*2]AD2d 642 [1987]; see also People v Pierre, 2 AD3d 461 [2003]; People v Brisco, 292 AD2d 626 [2002], affd 99 NY2d 596 [2003]; People v Dennis, 125 AD2d 325 [1986]).
+
+Viewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620 [1983]), we find that it was legally sufficient to establish the defendant's identity as the burglar beyond a reasonable doubt (see Jackson v Virginia, 443 US 307 [1979]; People v Regan, 11 AD3d 640 [2004]; People v Gillette, 8 AD3d 496 [2004]). Moreover, resolution of issues of credibility, as well as the weight to be accorded to the evidence presented, are primarily questions to be determined by the trier of fact, which saw and heard the witnesses (see People v Gaimari, 176 NY 84 [1903]). Its determination should be accorded great weight on appeal and should not be disturbed unless clearly unsupported by the record (see People v Garafolo, 44 AD2d 86 [1974]). Upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see CPL 470.15 [5]).
+
+The defendant's contention that the evidence was legally insufficient to sustain his conviction for criminal possession of stolen property in the fifth degree is unpreserved for appellate review (see People v Santos, 86 NY2d 869, 870 [1995]; People v Gray, 86 NY2d 10, 19 [1995]; People v Bynum, 70 NY2d 858 [1987]; CPL 470.15 [2]). In any event, the evidence was legally sufficient to establish the defendant's guilt of this crime beyond a reasonable doubt based on his recent and exclusive possession of property following its theft, and his conduct in resisting arrest (see People v Cintron, 95 NY2d 329, 332 [2000]; People v Zorcik, 67 NY2d 670, 671 [1986]; People v Derrell, 6 AD3d 625, 626 [2004]; People v Sharland, 111 AD2d 479, 480 [1985]).
+
+The sentence imposed was neither unconstitutional (see People v Jones, 39 NY2d 694 [1976]; People v Clark, 176 AD2d 1206 [1991]) nor excessive (see People v Suitte, 90 AD2d 80 [1982]).
+
+The defendant's remaining contentions are without merit. Santucci, J.P., Krausman, Mastro and Skelos, JJ., concur.
+
+

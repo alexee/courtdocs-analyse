@@ -1,0 +1,33 @@
+
+	Beauchamp v City of New York
+	2004 NY Slip Op 00124 [3 AD3d 465]
+	January 12, 2004
+	Appellate Division, Second Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	Jeremy Beauchamp et al., Appellants,
+v
+City of New York et al., Defendants, and New York City Housing Authority, Respondent.
+
+
+—
+
+
+
+In an action, inter alia, to recover damages for assault and false arrest, the plaintiffs appeal, as limited by their brief, from so much of an order of the Supreme Court, Queens County (Satterfield, J.), dated January 10, 2002, as granted those branches of the motion of the defendant New York City Housing Authority which were for summary judgment dismissing the first through twelfth causes of action insofar as asserted against it.
+
+Ordered that the order is reversed insofar as appealed from, on the law, with costs, and those branches of the motion which were for summary judgment dismissing the first through twelfth causes of action insofar as asserted against it are denied.
+
+The injured plaintiffs, Jeremy Beauchamp and Antonio Marin, allege that they were assaulted and falsely arrested by several off-duty New York City Housing Authority (hereinafter Housing Authority) police officers. Following the incident, the New York City Police Department Bureau of Internal Affairs (hereinafter the BIA) conducted an investigation and concluded that one of the officers had engaged in "police action" by pulling out his gun during an altercation with the injured plaintiffs. The BIA recommended that disciplinary charges be brought against two officers. The plaintiffs subsequently commenced this action seeking, inter alia, damages for assault and false arrest. The Housing Authority thereafter moved for summary judgment dismissing the complaint insofar as asserted against it, alleging, among other things, that even if off-duty officers were involved in the alleged assault, it could not be held liable because they were not acting in furtherance of their duties as police officers. The Supreme Court granted the Housing Authority's motion, concluding, as a matter of law, that it could not be held liable under the doctrine of respondeat superior because the police officers were not acting within the scope of their employment.
+
+On appeal, the plaintiffs contend that the Supreme Court erred in granting the Housing Authority's motion because there are triable issues of fact as to whether the police officers were acting within the scope of their employment during the incident. We agree. The doctrine of respondeat superior renders an employer vicariously liable for torts committed by an employee acting within the scope of his or her employment (see Judith M. v Sisters of Charity Hosp., 93 NY2d 932, 933 [1999]; Riviello v Waldron, 47 NY2d 297, 302 [1979]). An employee's actions fall within the scope of employment where the purpose in performing such actions is "to further the employer's interest, or to carry out duties incumbent upon the employee in furthering the employer's business" (Stavitz v City of New York, 98 AD2d 529, 531 [1984]; see also Schilt v New York City Tr. Auth., 304 AD2d 189 [2003]; Matter of Schenectady Police Benevolent Assn. v City of Schenectady, 299 AD2d 717 [2002]). Conversely, where an employee's actions are taken for wholly personal reasons, which are not job related, his or her conduct cannot be said to fall within the scope of employment (see Schilt v New York City Tr. Auth., supra; Stavitz v City of New York, supra). Since the determination of whether an employee's actions fall within the scope of employment depends heavily on the facts and circumstances of the particular case, the question is ordinarily for the jury (see Riviello v Waldron, supra at 302-303; Schilt v New York City Tr. Auth., supra; see also Matter of Williams v City of New York, 64 NY2d 800, 802 [1985]). The parties' evidentiary submissions, which included the deposition testimony of the Chief of Criminal Investigations for the BIA, revealed the existence of issues of fact as to whether the officers assaulted the injured plaintiffs for wholly personal reasons, or whether they may have used excessive force within the scope of their employment while investigating allegations that the injured plaintiffs possessed marijuana. Accordingly, those branches of the Housing Authority's motion which were for summary judgment dismissing the plaintiffs' causes of action to recover damages, inter alia, for assault, false arrest, and false imprisonment insofar as asserted against it should have been denied.
+
+Furthermore, the Housing Authority failed to sustain its initial burden of demonstrating its entitlement to summary judgment dismissing the plaintiffs' causes of action to recover damages for negligent hiring insofar as asserted against it because it submitted no proof to establish that it was not negligent in hiring the officers involved in the incident (see generally Zuckerman v City of New York, 49 NY2d 557 [1980]). S. Miller, J.P., Krausman, Townes and Cozier, JJ., concur.
+
+

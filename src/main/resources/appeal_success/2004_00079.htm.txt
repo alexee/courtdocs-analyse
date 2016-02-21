@@ -1,0 +1,37 @@
+
+	Goldstein v Snyder
+	2004 NY Slip Op 00079 [3 AD3d 332]
+	January 8, 2004
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	Denise Goldstein, Respondent,
+v
+Arthur I. Snyder, M.D., Appellant.
+
+
+—
+
+
+
+Order, Supreme Court, New York County (Nicholas Figueroa, J.), entered on or about June 5, 2003, which set aside a jury verdict in favor of defendant as against the weight of the evidence and directed a new trial, unanimously reversed, on the facts, without costs, and the verdict reinstated. The Clerk is directed to enter judgment accordingly.
+
+Plaintiff, who has a history of esophageal spasm, has been taking five milligrams of Norvasc three times a day since 1990. The trial evidence established that she was first treated by defendant for arthritis in January 1999 and was prescribed Prednisone. In February 1999, she complained of chest pain, but her blood pressure and heart rate were within normal limits and an EKG was entirely normal. Defendant recommended that she take two five-milligram Norvasc tablets twice a day. In June, plaintiff told defendant that she had been taking four tablets a day "in varying periods." Over the remainder of the year, her blood pressure was noted to be slightly elevated, consistent with increased symptoms of rheumatoid arthritis.
+
+On March 28, 2000, plaintiff complained of substernal pain radiating to the left shoulder and perspiration during the previous night. Defendant performed an EKG and blood test to rule out a heart attack. Plaintiff informed him that she had taken 45 milligrams of Norvasc in a 16-hour period, and defendant testified that he had a general recollection of cautioning her that it was too much. Plaintiff suffered a heart attack around the first of April.
+
+During trial, testimony was elicited from defendant that he had no specific understanding of the manufacturer's warning that use of Norvasc by patients with coronary artery disease would result in increased frequency, duration and severity of myocardial infarction. Plaintiff's expert cardiologist testified that an appropriate dosage of the drug would be 2.5 to 10 milligrams a day. He stated that Norvasc causes a relaxation in the arteries, thereby lowering blood pressure. He opined that prescribing 20 milligrams a day or failing to warn against ingesting 45 milligrams within a 16-hour period would constitute a departure from good and accepted medical practice.
+
+Defendant's expert testified that even assuming plaintiff took 300 milligrams over the four-day period prior to her admission to the hospital, it was unlikely that Norvasc precipitated her heart attack since there was no indication that her blood pressure had dropped. The expert stated that he was aware that the drug had been "related on rare occasions to episodes of myocardial infarction." He agreed, however, that prescribing Norvasc without any understanding of the manufacturer's warning would be a departure from good and accepted medical practice and that ingestion of 45 milligrams over a 16-hour period was excessive.
+
+The jury returned a verdict in defendant's favor, finding that defendant did not depart from good and accepted medical practice in the manner in which he prescribed Norvasc. Supreme Court granted plaintiff's motion to set aside the verdict as against the weight of the evidence (CPLR 4404 [a]), reasoning that defendant's conceded lack of awareness of the manufacturer's warning and his recommendation of an excessive dosage rendered the verdict contrary to any conclusion that might be reached on the basis of a fair interpretation of the evidence (see Nicastro v Park, 113 AD2d 129, 134-135 [1985]).
+
+In the absence of any evidence tending to demonstrate that administration of Norvasc in excess of 10 milligrams a day proximately contributed to plaintiff's heart attack, there is a reasonable view of the evidence supporting the verdict that the jury may be presumed to have adopted (see Rubin v Pecoraro, 141 AD2d 525, 526 [1988]). Plaintiff had been exceeding the dosage deemed appropriate by her own expert for nearly a decade before she first consulted defendant. In addition, the testimony of defendant's expert provided an evidentiary basis for the conclusion that, in the absence of a drop in blood pressure preceding the coronary infarction, the prescribed dosage of Norvasc could not have been excessive (see Mortensen v Memorial Hosp., 105 AD2d 151, 158 [1984]; cf. Kallenberg v Beth Israel Hosp., 45 AD2d 177, 179-180 [1974], affd 37 NY2d 719 [1975]). Alternatively, the jury could have reasonably concluded that plaintiff abused the medication by taking more than double the prescribed dosage shortly before she suffered the heart attack. Thus, there exists a fair view of the evidence that supports the jury's determination, and setting aside the verdict was an improvident exercise of the court's discretion (see Cohen v Hallmark Cards, 45 NY2d 493, 498-499 [1978]). Concur—Tom, J.P., Saxe, Rosenberger, Williams and Gonzalez, JJ.
+
+

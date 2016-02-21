@@ -1,0 +1,56 @@
+
+	Matter of Loehr v Governor's Off. of Empl. Relations
+	2004 NY Slip Op 00069 [3 AD3d 653]
+	January 8, 2004
+	Appellate Division, Third Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	In the Matter of Donna Loehr et al., Appellants,
+v
+Governor's Office of Employee Relations et al., Respondents.
+
+
+—
+
+
+
+Kane, J. Appeal from a judgment of the Supreme Court (Bradley, J.), entered October 24, 2002 in Albany County, which dismissed petitioners' application, in a proceeding pursuant to CPLR article 78, to review a determination of respondent Governor's Office of Employee Relations denying petitioners' out-of-title work grievance.
+
+Petitioners Donna Loehr and Renee Wright are employed by respondent Office of Mental Health (hereinafter OMH) working at respondent Rochester Psychiatric Center in the job title Nurse II, a grade 16 position. They filed a grievance under article 17 of the collective bargaining agreement between their union and the state alleging that OMH's regular substitution of Nurse IIs for Nurse Administrator Is, a grade 20 position, required Loehr and Wright to perform out-of-title work in violation of their collective bargaining agreement and Civil Service Law § 61 (2).[FN1]
+
+OMH denied the grievance. On administrative appeal, respondent Governor's Office of Employee Relations (hereinafter GOER) was required to request a recommendation from respondent Nicholas Vangianelis, the Director of respondent Division of Classification and Compensation of the Civil Service Commission (hereinafter DCC). In conformance with DCC's recommendations, GOER denied the grievance initially and on further appeal. Petitioners commenced this CPLR article 78 proceeding seeking to overturn GOER's determination. Supreme Court dismissed the petition on the merits, resulting in petitioners' appeal.
+
+The underlying facts are largely uncontested. From June 6, 1999 to September 13, 1999, OMH assigned four Nurse IIs to fill in for the position of Nurse Administrator I for approximately 10% to 15% of each of their work schedules, generally two times per month, except that one Nurse II was assigned these duties for 25% of her working time during July 1999 and September 1999. These assignments occurred when Nurse Administrator Is had vacation days, sick days or regular days off during the week. Although in aggregate Nurse IIs functioned at the higher position for 50% of the time during September 13, 1999 to September 28, 1999, that factored out to approximately 15% of the work schedule for each Nurse II. GOER noted that this was "not a majority of any one work schedule."
+
+Our review is limited to determining whether there was a rational basis for GOER's determination that the job duties Loehr and Wright performed were included as, or substantially similar to, duties in their position description (see Matter of Newark Val. Cardinal Bus Drivers, Local 4360, NYSUT, AFT, AFL-CIO v New York State Pub. Empl. Relations Bd., 303 AD2d 888, 889 [2003], lv denied 100 NY2d 504 [2003]; Matter of Gajewski v Angello, 301 AD2d 721, 722 [2003]; Matter of Woodward v Governor's Off. of Empl. Relations, 279 AD2d 725, 726-727 [2001]). Finding GOER's determination arbitrary and without a rational basis, we reverse.
+
+Out-of-title work is prohibited by Civil Service Law § 61 (2) and article 17 of the collective bargaining agreement.[FN2]
+
+This matter is distinguishable from prior cases which found that Nurse IIs performing Nurse Administrator I duties were subjected to out-of-title work (see Matter of Collins v Governor's Off. of Empl. Relations, 211 AD2d 1001 [1995]; Matter of Kuppinger v Governor's Off. of Empl. Relations, 203 AD2d 664 [1994]), because those cases were decided prior to changes in the Nurse II position description to include as a duty filling in for an absent Nurse Administrator I "on an occasional and infrequent basis." The employees here were not required to perform any discrete tasks which were outside the Nurse II position description. The real issue before GOER was whether OMH's assignment of Nurse IIs to fill in for absent Nurse Administrator Is occurred on an occasional and infrequent basis, placing such work within their job description, or whether it was frequent or routine, rendering it out-of-title work in violation of their contract and statute.
+
+Whether the assignment as Nurse Administrator I constituted the majority of any employee's work schedule, the standard mentioned in DCC's recommendation and GOER's determination, is irrelevant. The question is whether consistently assigning a Nurse II to fill in for a higher-grade position 10% to 15% of that employee's working time over the course of a three-month period was occasional and infrequent as permitted in the position description. Although GOER rationally rejected petitioners' aggregate statistical approach and instead measured the circumstances of each employee on an individual basis, GOER failed to delineate what is considered occasional and infrequent under the position description. Because GOER apparently used an improper majority-of-working-time standard when reviewing the grievance, rather than the proper and quite different standard of whether the assignments were occasional and infrequent, GOER's determination was arbitrary, without a rational basis, and based on an error of law.
+
+Crew III, J.P., Mugglin, Rose and Lahtinen, JJ., concur. Ordered that the judgment is reversed, on the law, with costs, petition granted, determination annulled, and matter remitted to respondent Governor's Office of Employee Relations for further proceedings not inconsistent with this Court's decision.
+
+
+Footnotes
+
+
+
+
+Footnote 1: Two other individuals who held the same job title joined in the grievance, but are not parties to this proceeding because they no longer work for OMH. 
+
+
+
+
+Footnote 2: The statute contains an exception for work performed on an emergency basis, a situation not applicable here.
+
+
+
+

@@ -1,0 +1,47 @@
+
+	Coinmach Corp. v Fordham Hill Owners Corp.
+	2004 NY Slip Op 00010 [3 AD3d 312]
+	January 6, 2004
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	Coinmach Corporation, as Successor in Interest to Coinmach Industries, Inc., Respondent,
+v
+Fordham Hill Owners Corp., Appellant.
+
+
+—
+
+
+
+Order, Supreme Court, Bronx County (Kenneth Thompson, J.), entered January 15, 2003, which granted plaintiff's application for a preliminary injunction enjoining defendant from interfering with plaintiff's exclusive right of use and occupancy of laundry rooms in the subject premises, unanimously reversed, on the law, with costs, and the motion denied.
+
+In April 1990, plaintiff (Coinmach) entered into a seven-year lease agreement with defendant cooperative corporation (Fordham Hill), whereby plaintiff was granted the exclusive right to install, operate and maintain coin-operated laundry machines in the laundry rooms of Fordham Hill's nine-building apartment complex. Paragraph 12 (c) of the initial lease provided: "At the expiration of this Lease or any renewal, Lessee shall have the right of first refusal to meet any bona fide bid to lease the laundry room(s) and/or provide coin-metered laundry equipment services to the Premises."
+
+In 1993, Coinmach brought an action against Fordham Hill in Supreme Court, Nassau County. As relevant to this appeal, that court granted Coinmach a preliminary injunction enjoining Fordham Hill from terminating the lease and from interfering with plaintiff's rights with respect to the laundry machines. The ultimate disposition of this action is not indicated in the record.
+
+The parties modified their contract in February 1994, and extended it until May 2, 2001. After the lease expired, they continued to do business on a month-to-month basis. By letter dated June 27, 2001, Fordham Hill notified Coinmach that it did not intend to extend or renew the lease agreement, and that it intended to solicit bids from other laundry contractors. It stated it would also give Coinmach an opportunity to submit a new proposal for laundry services, which Coinmach did in November 2001.
+
+Fordham Hill notified Coinmach in a July 31, 2002 letter that it had decided not to lease or license the laundry rooms to any laundry service provider and had chosen, instead, to purchase laundry equipment. Plaintiff responded by submitting a bid, dated August 5, 2002, to sell Fordham Hill laundry equipment with a five-year service agreement. Fordham Hill decided to purchase laundry equipment from another manufacturer, and notified Coinmach of this fact on August 15, 2002.
+
+Coinmach then sent Fordham Hill a letter stating that, pursuant to paragraph 12 (c) of the lease agreement, it was exercising its right of first refusal. It requested that Fordham Hill forward the bid it intended to accept, so that Coinmach could meet the terms of that offer. When Fordham Hill failed to do so, Coinmach brought this action for a declaratory judgment, specific performance and a permanent injunction, to enforce its right of first refusal under the lease. Coinmach also sought a preliminary injunction enjoining defendant from interfering with Coinmach's exclusive use and occupancy of the laundry rooms.
+
+In the order appealed from, the IAS court granted Coinmach a preliminary injunction, "pursuant to res judicata," based upon the preliminary injunction plaintiff was granted in the Nassau County action. This was error.
+
+It is settled law that the grant or denial of a request for a preliminary injunction, a provisional remedy designed for the narrow purpose of maintaining the status quo, is not an adjudication on the merits and will not be given res judicata effect (see Preston Corp. v Fabrication Enters., 68 NY2d 397, 402 [1986]; Matter of Steck v Jorling, 182 AD2d 937, 939 [1992], appeal dismissed 80 NY2d 893 [1992]; Papa Gino's of Am. v Plaza at Latham Assoc., 135 AD2d 74, 77 [1988]).
+
+In addition, res judicata is inappropriate where, as here, the prior Nassau County action involved distinct operative facts and legal issues. In the Nassau County litigation, 10 years prior to this action, Fordham Hill alleged that Coinmach had breached the contract by failing to repair malfunctioning machines. In this action, by contrast, Coinmach seeks to exercise a right contained in the expired agreement. Res judicata, which requires that the merits of the two actions between the parties be based upon the same transaction or occurrences, is inapplicable here.
+
+Further, on the merits of the motion for a preliminary injunction, Coinmach has not shown, as required: (1) a probability of success in the underlying action; (2) danger of irreparable injury in the absence of an injunction; and (3) a balancing of the equities in its favor (Aetna Ins. Co. v Capasso, 75 NY2d 860, 862 [1990]). Plaintiff seeks enforcement of a term of the parties' contract which gave it a right of first refusal to provide laundry services in defendant's buildings. However, plaintiff allowed the contract to expire without making an agreement to extend that right into the implied month-to-month tenancy. The right of first refusal is an exception to the general rule that the covenants of a lease are extended into a month-to-month tenancy, and it must be expressly reaffirmed (Galapo v Feinberg, 266 AD2d 150, 150-151 [1999]; White Castle Sys. v Blohm, 807 F2d 313, 315 [1986]).
+
+In addition, plaintiff's actions were inconsistent with its present contention that the right of first refusal survived the expiration of the lease. First, in November 2001, after being informed that Fordham Hill would be soliciting bids for laundry services, Coinmach submitted a detailed offer to provide these services. Then in August 2002, after Fordham Hill informed Coinmach that it intended to purchase laundry equipment, Coinmach forwarded to Fordham Hill a price quote for the sale and service of its laundry equipment. The Second Circuit, faced with virtually identical facts, aptly recognized a course of conduct which was inconsistent with the later attempted exercise of a right of first refusal (White Castle at 314-315). That court stated: "Knowing that other bids were expected, it would have been economically foolish for [plaintiff], if indeed it really thought it had a right of first refusal, to risk paying more than necessary as opposed to awaiting the highest bid and then matching it" (id.). Like the plaintiff in White Castle, Coinmach's actions in this case were consistent with a waiver of the contractual right of first refusal, which it did not attempt to assert until August 23, 2002, over a year after the parties' lease had expired.
+
+As to the other requirements for a preliminary injunction, there is no showing here that plaintiff will suffer irreparable harm if the injunction is denied, or that the equities weigh in favor of granting provisional relief. As to harm, plaintiff's losses can be fully compensated by money damages, as ascertained from the income it derives from its laundry machines (see Mr. Dees Stores v A.J. Parker, Inc., 159 AD2d 389 [1990]; Di Stefano v PSFB Assoc., 103 AD2d 839 [1984], appeal dismissed 64 NY2d 776 [1985]). Further, the equities do not weigh in favor of granting plaintiff's request for an injunction. Plaintiff allowed its contract with Fordham Hill to expire without exercising the right of first refusal, and it actively participated in the subsequent bidding process, conduct inconsistent with the right it currently seeks to enforce. Concur—Mazzarelli, J.P., Saxe, Williams, Lerner and Marlow, JJ.
+
+

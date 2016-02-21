@@ -1,0 +1,37 @@
+
+	Masterwear Corp. v Bernard
+	2004 NY Slip Op 00004 [3 AD3d 305]
+	January 6, 2004
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	Masterwear Corporation et al., Respondents, et al., Plaintiff,
+v
+Norman Bernard, Appellant, and Albert S. Mushkin, Respondent, et al., Defendant.
+
+
+—
+
+
+
+Order, Supreme Court, New York County (Charles Ramos, J.), entered December 10, 2002, which, to the extent appealed from, denied the motion of defendant-appellant Norman Bernard to amend his counterclaim to assert a bonus claim under a section of the parties' agreement different from the section originally pleaded and to amend his answer to assert a cross claim against defendant-respondent Albert S. Mushkin, unanimously modified, on the law, and defendant-appellant's motion granted only to the extent of permitting him to plead the proposed cross claim against defendant-respondent Albert S. Mushkin and otherwise affirmed, with costs to defendant-appellant. Appeal from that part of the order which denied defendant-appellant leave to plead an eighth alleged affirmative defense against the Masterwear plaintiffs unanimously dismissed, with costs, as moot, in light of the order of the same court and Justice entered on or about July 10, 2003, which granted reargument and, upon reargument, granted such relief. Order, same court and Justice, entered March 12, 2003, which, after an in camera inspection ordered by this Court, denied defendant-appellant's motion to compel disclosure of the settlement agreement between plaintiffs and defendant Mushkin, unanimously reversed, on the law and the facts, with costs, the disposition vacated and the matter remanded to the motion court for further proceedings in accordance with the decision herein.
+
+Defendant-appellant Norman Bernard's motion to amend his answer should have been granted in all respects. In the absence of prejudice or unfair surprise, requests for leave to amend should be granted freely (see McQuaig v Olympia & York 125 Broad St. Co., 247 AD2d 273, 274 [1998]). As subsequently recognized by the motion court on reargument, its prior refusal to allow amendment in order to assert the eighth affirmative defense against the Masterwear plaintiffs was not a proper exercise of discretion because mere lateness is not a barrier to an amendment. Lateness must be coupled with significant prejudice which is not found in the mere exposure of Masterwear to greater liability. Thus, in light of the motion court's subsequent grant of such relief on reargument, that part of the appeal has been rendered moot.
+
+As for the proposed addition of the cross claim against Mushkin, which relief was originally denied solely on the ground that contribution and indemnity may only be asserted in a tort action, the motion court also recognized on reargument that the claims against Bernard for conversion, fraud and breach of fiduciary responsibilities are tort claims. Nevertheless, it held that a cross claim for contribution was still not appropriate because claims for contribution pursuant to CPLR 1401 are available only for claims of personal injury, injury to property or wrongful death, and no such claims are made against Bernard. However, it is settled that any tortious act (other than personal injury), including conversion, resulting in damage constitutes an "injury to property" within the meaning of CPLR 1401 (see Lippes v Atlantic Bank, 69 AD2d 127, 139-141 [1979]).
+
+To the extent that General Obligations Law § 15-108 bars a claim for contribution against a prejudgment settling joint tortfeasor, we are unable on the present record, in which we do not have the benefit of the confidential settlement agreement between plaintiffs and Mr. Mushkin, to determine whether the cross claim should be limited to a claim for indemnification. That is no reason, however, to bar the cross claim at this juncture since the issue of contribution or indemnification, as the case may be, must await resolution of plaintiffs' claims against Bernard (see Pine v Solow, 69 AD2d 760, 761 [1979]). Thus, the amendment of the answer to assert the cross claim should have been granted.
+
+Although the motion court did not address Mushkin's claim that he would be prejudiced by the addition of a cross claim in light of his claimed failure to consider the possibility of a cross claim when he settled, the possibility of an additional recovery against him by Bernard does not constitute prejudice and his professed naivete in failing to foresee the possibility was a tactical error that should not bar the amendment; in any event, the countervailing harm to Bernard by prohibiting such cross claim would be at least as great. Any strategic harm occasioned by Mushkin's failure to have participated in discovery can be mitigated by allowing him to take discovery from Bernard regarding the new cross claim (see Valdes v Marbrose Realty, 289 AD2d 28, 29 [2001]).
+
+Finally, with respect to the appeal from the denial of Bernard's motion to compel disclosure of the settlement agreement between plaintiffs and codefendant Mushkin, we previously reversed the Commercial Division's order of February 25, 2002 and granted Bernard's motion to compel disclosure of the settlement agreement to the extent of remanding the matter for an in camera inspection to resolve any doubt as to relevance (298 AD2d 249 [2002]). "[S]ettlement agreement," as used in our prior order, was intended to refer to all of the "confidential documents" sought in Bernard's notice, which language is clearly applicable to additional documents such as affidavits. Upon remand the court should clarify precisely which documents it had reviewed, i.e., whether its determination was with respect to all of the documents sought by Bernard in his discovery notice in relation to the settlement agreement, and not only the agreement itself. To the extent that the court's previous in camera review was of the settlement agreement only, then a further in camera review of all the related documents should be conducted with the proviso that irrelevant financial documents be shielded. As previously directed, upon such remand, the settling parties' remaining interest in confidentiality may be protected by an order limiting the disclosure of the settlement agreement and any related documents to Bernard and his counsel or by such other order as the Commercial Division Justice directs.
+
+Reargument granted and, upon reargument, the decision and order of this Court entered herein on October 2, 2003 (309 AD2d 510 [2003]) is hereby recalled and vacated. Concur—Andrias, J.P., Saxe, Sullivan and Ellerin, JJ.
+
+

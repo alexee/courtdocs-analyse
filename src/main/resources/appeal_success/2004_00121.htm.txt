@@ -1,0 +1,88 @@
+
+	Matter of R.M. Kliment & Frances Halsband, Architects (McKinsey & Co.)
+	2004 NY Slip Op 00121 [3 AD3d 143]
+	January 13, 2004
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 14, 2004
+
+
+
+
+
+[*1]
+	In the Matter of the Arbitration between R.M. Kliment & Frances Halsband, Architects, Appellant, and McKinsey & Company, Inc., Respondent.
+
+
+
+First Department, January 13, 2004
+
+
+
+
+Matter of R.M. Kliment & Frances Halsband, Architects (McKinsey & Co.), 2003 NY Slip Op 50864(U), reversed.
+
+
+
+
+
+
+
+
+
+APPEARANCES OF COUNSEL
+
+
+
+Ingram Yuzek Gainen Carroll & Bertolotti, LLP (Larry F. Gainen and Joan Walter of counsel), for appellant.
+
+Stroock & Stroock & Lavan LLP (Brian M. Cogan and Tom A. Hakemi of counsel), for respondent.
+
+
+
+{**3 AD3d at 144} OPINION OF THE COURT
+
+
+
+Andrias, J.P.
+
+The question presented is whether respondent's claim sounding in breach of contract, but essentially alleging professional malpractice, is barred by the three-year period of limitations of CPLR 214 (6).
+
+CPLR 214 (6) provides that an action to recover damages for malpractice, other than medical, dental or podiatric malpractice, must be commenced within three years, regardless of whether the underlying theory is based in contract or tort. The section was amended in 1996 (L [*2]1996, ch 623) to repeal a line of Court of Appeals decisions, including Sears, Roebuck & Co. v Enco Assoc. (43 NY2d 389 [1977]) and Santulli v Englert, Reilly & McHugh (78 NY2d 700 [1992]), wherein the Court of Appeals, in applying the six-year statute of limitations for breach of contract, held that the liability of the defendants, "whether verbalized as in tort for professional malpractice or as in contract for nonperformance of particular provisions of the contract, arose out of the contractual relationship of the parties—i.e., absent the contract between them, no services would have been performed and thus there would have been no claims" (Santulli, supra at 707, quoting Sears, Roebuck, supra at 396). "This change was intended not only to remediate the Sears line of cases but also to reduce potential liability of insurers and corresponding malpractice premiums, and to restore a reasonable symmetry to the period in which all professionals would remain exposed to a malpractice suit" (Chase Scientific Research v NIA Group, 96 NY2d 20, 27 [2001] [citation omitted]; see also Alexander, 2001 Practice Commentaries, McKinney's Cons Laws of NY, Book 7B, CPLR C214:6).
+
+In January 1998, the parties to this proceeding entered into an agreement for architectural and interior design services to be {**3 AD3d at 145}performed by petitioner in connection with a project to construct approximately 13,640 square feet of office space in Stamford, Connecticut for respondent's technology consulting group. Any claims, disputes or breaches arising from or relating to the agreement were to be decided by binding arbitration. It is undisputed that the project was completed and a certificate of occupancy for the premises was issued on November 3, 1998. Thereafter, upon service of respondent's demand in April 2002, petitioner commenced this proceeding to stay arbitration on the ground that it is barred by the three-year malpractice statute of limitations and now appeals from the denial of its petition.
+
+In its demand for arbitration, dated April 8, 2002, respondent states that petitioner (referred to as K & H), as its architect, "was specifically responsible under the parties' contract for 'compliance with all laws, codes, ordinances and other requirements applicable to the Project (including without limitation, the relevant building code, the requirements of the local board of fire underwriters or similar body, and any permits for the work)'. . . . Notwithstanding the requirements of the applicable fire code, K & H failed to specify fireproofing as required to comply with the Connecticut Building Code. As a result, McKinsey incurred substantial additional expenses to install the necessary fireproofing after construction had been completed."
+
+In denying the petition, the motion court found that respondent was entitled to the six-year statute of limitations for breach of contract because it is not contending that petitioner committed malpractice, but that petitioner completely failed to perform its specified contractual responsibility. Citing Saint Alexander's Church v McKenna (294 AD2d 695, 696 [2002]), the motion court held that the amendment to CPLR 214 (6) did not abrogate the right of an owner to sue an architect within the six-year statute of limitations where the claim is based upon a "particular bargained-for result," viz., "to comply with all applicable code provisions, in this instance as to fireproofing." (2003 NY Slip Op 50864[U], *5-6.)
+
+However, while a malpractice action may "theoretically also rest on breach of contract to obtain a particular bargained-for result" (Chase Scientific Research v NIA Group, supra at 25), this is not that rare kind of case where a physician not only agrees to perform an operation, but [*3]promises to "cure" the patient, or an attorney agrees not only to represent a client, but also guarantees a result. The bargained-for result here was not compliance with the Connecticut Building Code per se, but the furnishing {**3 AD3d at 146}of architectural and interior design services in connection with the project, which services, explicitly or implicitly, were to be performed in a professional, nonnegligent manner. Compliance with the Connecticut Building Code was just one of many ordinary contractual terms and conditions.
+
+Although we have no complaint in this proceeding, only a demand for arbitration, whether petitioner's alleged failure to comply with the applicable code provisions was a breach of contract or tortious in nature is immaterial for statute of limitations purposes, since the resulting noncompliance is the same, as is the remedy sought. The applicable statute of limitations "is properly related to the remedy rather than to the theory of liability" (Sears, Roebuck & Co. v Enco Assoc., supra at 395). Thus, respondent's claim is not an exception to CPLR 214 (6) and the Legislature's intention that it be subject to a three-year statute of limitations is clear.
+
+The legislative memorandum in support of the amendment to CPLR 214 (6) states:
+
+
+"The legislature of the State of New York had originally expressed its intent in enacting the statute of limitations for actions for general malpractice in CPLR section 214 (6) to be three years . . . .
+
+
+"The Courts have recently expanded the statute of limitations, in cases where the essential actions complained of consist of malpractice, to six years under breach of contract theory, thereby abrogating and circumventing the original legislative intent.
+
+
+"Unless the legislature reaffirms its intent as to the statute of limitations to be applied in cases governed by . . . Section 214 (6) . . ., the Courts will continue to expand the statute of limitations in general malpractice cases . . . to be governed by the six year breach of contract theory as set forth in CPLR Section 213 (2).
+
+
+"It is essential that both Sections 214 (6) and 214-a of the CPLR be amended to reaffirm the legislative intent that where the underlying complaint is one which essentially claims that there was a failure to utilize reasonable care or where acts of omission or negligence are alleged or claimed, the statute of limitations shall . . . be three years if the case comes within {**3 AD3d at 147}the purview of CPLR Section 214 (6) . . . , regardless of whether the theory is based in tort or in a breach of contract" (Senate Mem in Support of L 1996, ch 623, 1996 McKinney's Session Laws of NY, at 2547 [emphasis added]).
+
+
+As can be seen from the foregoing, the Legislature stated its intention in no uncertain terms and the language used to amend section 214 (6) is very clear. This was recognized by the Court of Appeals in Chase Scientific Research v NIA Group (supra), a postamendment decision.[*4]"While a malpractice action may be grounded in negligence—subject generally to a three-year statute of limitations—it can theoretically also rest on breach of contract to obtain a particular bargained-for result . . . . Breach of contract actions are subject generally to a six-year statute of limitations. [But, w]hen the Legislature amended CPLR 214 (6) to apply a three-year limitations period to all nonmedical malpractice actions, whether based on tort or contract . . . , it ended [this] quandary" (Chase Scientific Research v NIA Group, 96 NY2d at 25 [citations omitted]; see also Ruffolo v Garbarini & Scher, 239 AD2d 8, 11 [1998] ["These precedents (Sears, Roebuck and Santulli) were effectively overruled when the Legislature amended CPLR 214 (6)"]; Siegel, NY Prac § 35, at 43 n 16 [3d ed] [Santulli held that in malpractice actions against nonmedical professionals, because there is also a contractual relationship between the parties in such situations, a plaintiff had the option of relying upon the alternative six-year contractual period; however, the 1996 amendment "overruled Santulli and restored the three years exclusively"]).
+
+
+Accordingly, the judgment of the Supreme Court, New York County (Richard Braun, J.), entered April 9, 2003, which, insofar as appealed from as limited by the briefs, denied petitioner's application to stay arbitration, should be reversed, on the law, without costs, and petitioner's application granted.
+
+Ellerin, Williams, Lerner and Gonzalez, JJ., concur.
+
+Judgment, Supreme Court, New York County, entered April 9, 2003, reversed, on the law, without costs, and petitioner's application to stay arbitration granted.
+
+
+

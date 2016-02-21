@@ -1,0 +1,39 @@
+
+	Matter of Kondrup v Assessor of Town of Binghamton
+	2004 NY Slip Op 00051 [3 AD3d 625]
+	January 8, 2004
+	Appellate Division, Third Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	In the Matter of Michele L. Kondrup, Respondent,
+v
+Assessor of Town of Binghamton et al., Appellants.
+
+
+—
+
+
+
+Crew III, J. Appeal from a judgment of the Supreme Court (Relihan, Jr., J.), entered January 30, 2003 in Broome County, which granted petitioner's application, in a proceeding pursuant to CPLR article 78, to modify the assessed value of petitioner's property.
+
+In December 2001, petitioner purchased three parcels of land (hereinafter the property) from the Internal Revenue Service for $410,000. The property was improved with a 5,248 square foot, single-family residence. Thereafter, in April 2002, petitioner received a notice of change of assessment reflecting a tentative assessment of $451,000, an increase from the previously assessed value of $385,000. Petitioner then filed an administrative complaint seeking a reduction in the assessment, which respondent Board of Assessment Review denied, prompting petitioner to file a small claims assessment review petition, wherein she alleged that the full or fair market value of the property was $410,000, which, after application of the 2002 equalization rate, would result in an assessed value of $374,700.
+
+Following a hearing, the Hearing Officer concluded that "the appropriate assessment for [the] property [was] $420,000." Petitioner thereafter commenced this proceeding pursuant to CPLR article 78 contending, inter alia, that the Hearing Officer applied the incorrect equalization rate in determining the assessment. Supreme Court granted the petition, reasoning that the Hearing Officer must have intended the $420,000 figure to represent the full value of the property, as using this figure to represent the assessed value of the property would result in a full valuation figure in excess of the value placed upon the property by respondent Assessor of respondent Town of Binghamton. Respondents' subsequent motion to reargue was denied, prompting this appeal from Supreme Court's judgment modifying the assessed value of the property.
+
+Despite the Hearing Officer's straightforward statement and finding that "the appropriate assessment for [petitioner's] property [was] $420,000," petitioner argues and Supreme Court found that the Hearing Officer nonetheless intended the $420,000 figure to represent the full, as opposed to assessed, value of the property. The flaw in this argument—aside from disregarding the language employed by the Hearing Officer—is that it is premised upon an erroneous assumption, namely, that adopting an assessed value of $420,000 results in a full value amount in excess of the value presumptively placed upon the property by the Town Assessor. This simply is not true.
+
+At all times relevant to this proceeding, the tentative assessment for petitioner's property was $451,000. Applying the 2002 equalization rate of 91.39% to the tentative assessment proposed by the Town results in a full value of $493,489 ($451,000 divided by .9139); applying the same equalization rate to the actual assessed value of $420,000 as found by the Hearing Officer results in a full value of $459,569 ($420,000 divided by .9139). Thus, while the full value figure of $459,569 indeed exceeds the 2002 tentative assessment for the property, i.e., $451,000, it does not exceed the full value figure that corresponds to such tentative assessment, i.e., $493,489. Accordingly, contrary to Supreme Court's finding, adopting an assessed value of $420,000 for petitioner's property does not result in a full value figure in excess of the value of the property as determined by the Town Assessor.
+
+We also reject petitioner's claim that the $410,000 purchase price is the best indicator of the property's full or fair market value. " '[F]ull value' is typically equated with market value, or what 'a seller under no compulsion to sell and a buyer under no compulsion to buy' would agree to as the subject property's price" (Matter of Commerce Holding Corp. v Board of Assessors of Town of Babylon, 88 NY2d 724, 729 [1996], quoting Matter of Allied Corp. v Town of Camillus, 80 NY2d 351, 356 [1992]). Inasmuch as petitioner purchased the property after it was seized from a drug dealer by the IRS, this acquisition certainly cannot be viewed as an arm's length transaction, and petitioner failed to submit any other data to support her position that the full or fair market value of the property was only $410,000. Given that petitioner failed to meet her burden of proof in this regard, the Hearing Officer certainly cannot be faulted for failing to use petitioner's proposed market value figure as the basis for the 2002 assessment of the property.
+
+In the final analysis, although petitioner did not receive as much of a reduction in her assessment as she may have liked, her 2002 assessment nonetheless was reduced from $451,000 to $420,000, for which she received a corresponding reduction in her tax bill, and the Hearing Officer's decision in this regard was entirely rational. Accordingly, Supreme Court erred in granting the petition and modifying the assessment imposed.
+
+Cardona, P.J., Mugglin, Rose and Kane, JJ., concur. Ordered that the judgment is reversed, on the law, without costs, and petition dismissed.
+
+

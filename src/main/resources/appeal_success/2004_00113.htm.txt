@@ -1,0 +1,53 @@
+
+	People v Peralta
+	2004 NY Slip Op 00113 [3 AD3d 353]
+	January 13, 2004
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 24, 2004
+
+
+
+
+
+
+	The People of the State of New York, Respondent,
+v
+Calixto Peralta, Appellant.
+
+
+—
+
+
+
+Judgment, Supreme Court, Bronx County (Gerald Sheindlin, J., at nonjury trial; William Mogulescu, J., at sentence), rendered June 27, 2001, convicting defendant of robbery in the first degree, burglary in the second degree and criminal possession of stolen property in the fifth degree, and sentencing him to concurrent terms of 3 to 6 years, 2¼ to 4½ years, and 1 year, respectively, unanimously modified, on the law, the conviction for first-degree robbery reduced to robbery in the third degree, the conviction for second-degree burglary reduced to burglary in the third degree and the matter remanded for resentencing on the reduced convictions, and otherwise affirmed.
+
+Defendant was convicted of first-degree robbery under Penal Law § 160.15 (3) and second-degree burglary under Penal Law § 140.25 (1) (c). Both statutes require proof that, during the commission of the robbery or burglary, the defendant "[u]se[d] or threaten[ed] the immediate use of a dangerous instrument." Defendant appeals, arguing that his convictions under both of those statutes were not based on legally sufficient evidence because the prosecution failed to prove that he possessed a dangerous instrument. We agree.
+
+Defendant's victim, Victor Lopez, testified at the trial that defendant entered the furniture store where Lopez worked, pulled on a white ski mask, grabbed Lopez around the neck, turned him around, pressed a "hard object"—which Lopez believed was a gun—against his back and pulled him to the office in the back of the store.[FN*]
+
+There, defendant pushed Lopez to the floor and demanded that Lopez give him his money and jewelry. Defendant took $612 and jewelry from the victim's person and an additional $235 in cash that he found in a desk in the office. Defendant then forced Lopez down to the basement of the store, ordering him to stay there and warning him that there were people waiting outside who would kill him if he came up from the basement.
+
+Ramona Cruz, another employee of the store, testified that she entered the store while the robbery was taking place in the back, and heard defendant demanding that Lopez give him money. Ms. Cruz left the store, summoned people from nearby stores for help and asked them to call the police. A number of people came to the furniture store, where they encountered defendant as he was leaving from the back. The group held defendant until a police officer arrived. One man searched defendant's pockets and recovered Lopez's jewelry, which he returned to Lopez who, by this time, had come up from the basement. A police officer arrived, placed defendant under arrest, and also performed a search. The officer recovered $847 in cash from defendant's coat pocket and a white ski mask from the floor. No weapon of any kind or any object that could have been used as a weapon was ever located.
+
+At the close of the evidence, defendant moved to dismiss the charges, arguing, inter alia, that no weapon was found or recovered. (The prosecution's contention that defendant did not preserve his sufficiency of the evidence objection is not supported by the record.) The court denied the motion and found appellant guilty of first-degree robbery, second-degree burglary, and criminal possession of stolen property in the fifth degree. Defendant's subsequent motion to set aside the verdict was also denied.
+
+A necessary element of both first-degree robbery under Penal Law § 160.15 (3) and second-degree burglary under Penal Law § 140.25 (1) (c) is that the defendant "[u]se[d] or threaten[ed] the immediate use of a dangerous instrument" in the course of committing the robbery or burglary. The Court of Appeals has instructed that, to establish a first-degree robbery charge under Penal Law § 160.15 (3), the prosecution must prove that the defendant "actually possessed" and used or threatened to use a dangerous instrument during the commission of the crime (People v Pena, 50 NY2d 400, 407 [1980], cert denied 449 US 1087 [1981]). The same holds true for a second-degree burglary charge under Penal Law § 140.25 (1) (c) (People v White, 155 AD2d 934 [1989]). A defendant's statement that he has a weapon or a threat that he will kill or harm his alleged victim is insufficient, without more, to sustain a conviction for an offense requiring proof that the defendant used or threatened to use a dangerous instrument (see e.g. People v Moore, 185 AD2d 825 [1992]).
+
+A "dangerous instrument" is defined, in relevant part, by Penal Law § 10.00 (13) as "any instrument, article, or substance . . . which . . . is readily capable of causing death or other serious physical injury." An object, such as an unloaded or inoperable handgun, that is incapable of causing death or serious injury is not a "dangerous instrument" under the Penal Law (People v Hilton, 147 AD2d 427, 429 [1989]; People v Iglesias, 40 AD2d 778, 778-779 [1972]). Therefore, to sustain a conviction for first-degree robbery or second-degree burglary under the Penal Law provisions at issue, the prosecution must present evidence that the defendant actually possessed and used or threatened to use some object or substance that was "readily capable of causing death or other serious physical injury" during the course of the robbery or burglary.
+
+The record is devoid of evidence that defendant possessed or used a dangerous instrument. Neither Lopez nor anyone else who appeared at the crime scene saw defendant in possession of any object or substance fitting the definition of a dangerous instrument (cf. People v Anderson, 204 AD2d 191 [1994], lv denied 85 NY2d 905 [1995]; People v Hart, 176 AD2d 148 [1991], lv denied 79 NY2d 827 [1991]). Although defendant was immediately apprehended at the crime scene, no dangerous instrument was ever recovered either from defendant or from the premises (cf. People v Pena, 50 NY2d at 407 [knife found in accomplice's possession within minutes of the commission of the crime, three blocks from the scene of the crime]). There was no evidence that Lopez was injured by a dangerous instrument during his confrontation with defendant (cf. People v McBride, 203 AD2d 85, 86 [1994], lv denied 83 NY2d 912 [1994] [victim struck in the head by a "blunt object"]). Nor was there any evidence that defendant told Lopez that the object defendant pressed against his back was a dangerous instrument (cf. People v Lawrence, 124 AD2d 597 [1986]).
+
+In People v Hilton (147 AD2d 427 [1989]), this Court reversed a conviction of first-degree robbery under Penal Law § 160.15 (3) where the evidence established that the defendant, with his hand in his pocket as if he were holding a handgun, told the victim-witness that he had a gun and threatened to kill her and her daughter if his demands for money were not met. Noting the absence of evidence that a gun was fired or ever recovered, we determined that "where the dangerous instrument alleged is a gun, the People must prove that the gun was loaded and operable" (Hilton, 147 AD2d at 429). The dangerous instrument evidence in this case consists solely of Lopez's testimony that he felt defendant press something hard against his back and that Lopez believed the object was a gun. Unlike Hilton, there was no declaration by defendant that he had a weapon and no threat to kill Lopez. A witness's mere belief that a defendant possessed a weapon, without some confirming evidence that the defendant "actually possessed" (Pena, 50 NY2d at 407) an object that was, in fact, a "dangerous instrument," as that term is defined in the statute, is simply not enough to sustain a conviction for first-degree robbery or second-degree burglary pursuant to Penal Law § 160.15 (3) and § 140.25 (1) (c), respectively (see e.g. People v Moore, 185 AD2d 825 [1992]; People v Hilton, 147 AD2d 427 [1989]; People v White, 155 AD2d 934 [1989]). To hold otherwise would be to read the use-of-a-dangerous-instrument element out of the statutes (see People v Graham, 127 AD2d 443, 446 [1987]). Concur—Nardelli, J.P., Tom, Rosenberger and Gonzalez, JJ.
+
+
+Footnotes
+
+
+
+
+Footnote *: Defendant was not charged with any crime involving the display of what appeared to be a firearm (see Penal Law § 140.25 [1] [d]; § 160.15 [4]).
+
+
+
+

@@ -1,0 +1,84 @@
+
+	Matter of Board of Trustees of Huntington Free Lib. & Reading Room
+	2004 NY Slip Op 00027 [5 AD3d 15]
+	January 6, 2004
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, June 2, 2004
+
+
+
+
+
+[*1]
+	In the Matter of Board of Trustees of Huntington Free Library and Reading Room, Appellant. Attorney General of the State of New York et al., Respondents.
+
+
+
+First Department, January 6, 2004
+
+
+
+
+Matter of Board of Trustees of Huntington Free Lib. & Reading Room, 2002 NY Slip Op 40494 (U), reversed.
+
+
+
+
+
+
+
+
+
+
+APPEARANCES OF COUNSEL
+
+
+
+Balber Pickard Battistoni [*2]Maldonado & Van Der Tuin, PC (Thomas P. Battistoni of counsel), for appellant.
+
+Eliot Spitzer, Attorney General (James Robert Pigott, Jr., Marion R. Buchbinder, William Josephson and Barbara L. Quint of counsel), respondent pro se.
+
+James B. Comey, United States Attorney (Daniel S. Alter and Gideon A. Schor of counsel), for Smithsonian Institution, respondent.
+
+Madeline Provenzano, Member of the City Council of the City of New York, amicus curiae.
+
+
+
+{**5 AD3d at 16} OPINION OF THE COURT
+
+
+
+Lerner, J.
+
+Pursuant to its foundation deed, petitioner Huntington Free Library and Reading Room (the Library) is a charitable trust created by Collis and Arabella Huntington in 1892 to operate a noncirculating, free public library and to provide a place "where all persons without distinction of race or creed may assemble for purposes of reading, study, education, and self-improvement, and for lectures, exhibitions, instruction and amusement" (Board of Trustees of Museum of Am. Indian, Heye Found. v Board of Trustees of Huntington Free Lib. & Reading Room, 197 AD2d 64, 67 [1994], lv denied 86 NY2d 702 [1995]). In an effort to advance the Library's standing as a charitable and educational institution, as well as to be an enduring memorial to its founder Collis Huntington, the Library acquired, through a separate endowment from a Huntington descendant, an extensive collection of books and other written materials from the Museum of the American Indian (the MAI) in 1930 pursuant to a transfer indenture. 
+
+Approximately 60 years later, the MAI sought to transfer its entire holdings, including the now voluminous literary collection donated to the Library in 1930, to the Smithsonian Institution's National Museum of the American Indian. To that end, the MAI sought return of the Library's collection by attempting to impose a constructive trust on it, contending, inter alia, that the Library held the subject collection "in trust" solely for the benefit of the MAI.{**5 AD3d at 17}
+
+This Court found the MAI's contentions unavailing, reasoning that the MAI had no legal or equitable claim to the Library's collection (id. at 82-85). Similarly, this Court found that the doctrine of cy pres was inapplicable since the charitable purpose of the 1930 indenture was not yet impracticable or impossible as of 1994 (id.). Cognizant of a possible change in circumstances, the Court did not foreclose any future application of the cy pres doctrine under appropriate conditions (id. at 85-86).
+
+In March 2001, the Library commenced the instant cy pres action, seeking judicial [*3]authorization of a proposed transfer of the MAI collection to the New York State Historical Association in exchange for certain undertakings intended to continue the purpose of the 1930 indenture. Additionally, the sum of $2.5 million would be tendered in consideration of the transfer and to ensure the continued viability of the Library. Pursuant to the stipulation of settlement dated May 14, 2002, as modified by a supplemental stipulation of settlement dated July 17, 2002, the Library was required to entertain bids from other institutions for its collection, but the bids would be conditioned upon payment of $2.5 million by the successful bidder. The Library and the Office of the Attorney General of the State of New York jointly moved for judicial approval of this stipulation. The Smithsonian Institution, as successor-in-interest of the MAI, opposed the motion, essentially arguing that the library collection was held in trust for the MAI and specifically objecting to the $2.5 million compensatory payment to the Library. The IAS court denied the motion, finding, inter alia, that "the provision in the stipulation for the payment of $2,500,000 violates the terms of the trust and prevents application of the cy pres doctrine." (Matter of Board of Trustees of Huntington Free Lib. & Reading Room, 2002 NY Slip Op 40494[U], *7-8.)
+
+In light of the Library's concession that it was no longer able to meet its custodial responsibilities for the subject collection under the 1930 transfer indenture, the IAS court properly invoked the cy pres doctrine. Although the application of the cy pres doctrine involves a great measure of judicial discretion (see Sherman v Richmond Hose Co. No. 2, 230 NY 462, 473 [1921]), the IAS court improvidently exercised that discretion by failing to devise the most efficacious and dispositionally faithful alternative plan to advance the charitable objectives of the 1930 indenture. In Board of Trustees (supra at 67), we expressly found that the dual purpose of the 1930 indenture was to ensure the Library's standing as a charitable and educational institution{**5 AD3d at 18} and to be a lasting memorial to its founder Collis Huntington (id. at 82-85). In essence, this Court determined that the overriding charitable purpose of the 1930 indenture was to benefit the Library and its future existence as both a memorial and a charitable institution. By declining to approve the $2.5 million payment, which is essential to the Library's future existence, the IAS court effectively frustrated the dual objectives of the indenture. Furthermore, we find no prohibition for such payment under the indenture's terms. Under the present circumstances, this payment is necessary to the perpetuation and advancement of the particular dispositional objectives prescribed in the 1930 indenture.
+
+We have considered respondents' remaining contentions and find them unavailing.
+
+Accordingly, the order of the Supreme Court, Bronx County (Stanley Green, J.), entered on or about October 23, 2002, which, to the extent appealed from, denied petitioner's joint application with the Attorney General of the State of New York for an order approving the transfer of the Huntington Free Library and Reading Room's Native American Collection in exchange for certain undertakings by the transferee, including a $2.5 million payment, pursuant to a stipulation of settlement between the Trustees and the Attorney General dated May 14, 2002, as modified by the "so-ordered" supplemental stipulation of settlement dated July 17, 2002, should be reversed, on the law, without costs, petitioner's application should be granted and the aforesaid stipulation of settlement should be approved.
+
+Motion seeking leave to file amicus curiae brief granted.
+
+Dissenting opinion by Marlow, J.
+
+Marlow, J. (dissenting). It is well settled that "[t]he exercise of the cy pres doctrine always involves a large measure of discretion" (Sherman v Richmond Hose Co. No. 2, 230 NY 462, 473 [1921]; accord City Bank Farmers Trust Co. v Arnold, 283 NY 184, 195 [1940]; see also Alco Gravure v Knapp Found., 64 NY2d 458, 471 [1985]). The IAS court properly exercised its discretion in denying petitioner's application for approval of the subject stipulation of settlement setting forth the terms upon which transfer of the valuable Native American Collection held by petitioner would be accomplished. The portion of the stipulation found objectionable by the court, a provision requiring the transferee of the collection to pay petitioner $2.5 million, did not advance any purpose set forth in the 1930 transfer indenture pursuant to which the Native American Collection came into petitioner's possession.{**5 AD3d at 19}
+
+While it is true that a significant purpose of the transfer of the Native American Collection under the 1930 transfer indenture was to add to petitioner's standing as a charitable and educational institution (see Board of Trustees of Museum of Am. Indian, Heye Found. v Board of Trustees of Huntington Free Lib. & Reading Room, 197 AD2d 64, 82-85 [1994], lv denied 86 NY2d 702 [1995]), it is plain that the transfer was not made to enhance petitioner's financial footing, much less to assure petitioner's financial viability. To the contrary, far from benefitting petitioner economically, petitioner's undertaking under the transfer indenture of responsibility for the Native American Collection's care and augmentation entailed its assumption of a very substantial and open-ended financial obligation. It was only upon petitioner's continued ability to meet the costly custodial obligations imposed on it by the transfer indenture that its enjoyment of any institutional benefit under the indenture was contemplated.
+
+The $2.5 million payment to petitioner by the Native American Collection's eventual transferee is also objectionable on the ground that it potentially conflicts with the court's exercise of the cy pres power—necessary now (cf. id.) in light of petitioner's admission that it is no longer able to meet its custodial responsibilities under the 1930 transfer indenture—to devise the most efficacious and dispositionally faithful alternative plan for housing the collection. The payment of the stipulated sum by the transferee will reduce the means available to the transferee to devote to the collection and may deter desirable potential transferees from bidding for the collection.
+
+Accordingly, although recognizing that other viable alternatives were available, I cannot conclude on this record that the IAS court abused its discretion by concluding that the best way to distribute the trust assets in order to accomplish the remaining practicable charitable trust purposes was to require petitioner to request bids from the New York State Historical Association, Cornell University, the Smithsonian Institution, the American Museum of Natural History and any [*4]other appropriate institution, pursuant to the criteria set forth in the stipulation, except for the $2.5 million payment, and to provide that all interested parties be treated equally.
+
+Mazzarelli, J.P., Sullivan and Ellerin, JJ., concur with Lerner, J.; Marlow, J., dissents in a separate opinion.
+
+Order, Supreme Court, Bronx County, entered on or about October 23, 2002, reversed, on the law, without costs, petitioner's{**5 AD3d at 20} application granted and the stipulation of settlement approved. Motion seeking leave to file amicus curiae brief granted.
+
+
